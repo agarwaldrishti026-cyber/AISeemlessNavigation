@@ -1,0 +1,38 @@
+MULTIPLE DATASET AI TESTING RESULTS
+====================================
+
+Dataset: test_dataset_1.csv
+Records: 100
+Correct Predictions: 94
+Wrong Predictions: 6
+Accuracy: 94.00%
+Status: PASS
+------------------------------------
+Dataset: test_dataset_2.csv
+Records: 100
+Correct Predictions: 97
+Wrong Predictions: 3
+Accuracy: 97.00%
+Status: PASS
+------------------------------------
+Dataset: test_dataset_3.csv
+Records: 100
+Correct Predictions: 99
+Wrong Predictions: 1
+Accuracy: 99.00%
+Status: PASS
+------------------------------------
+Dataset: test_dataset_4.csv
+Records: 100
+Correct Predictions: 53
+Wrong Predictions: 47
+Accuracy: 53.00%
+Status: CHECK
+------------------------------------
+Dataset: test_dataset_5.csv
+Records: 100
+Correct Predictions: 92
+Wrong Predictions: 8
+Accuracy: 92.00%
+Status: PASS
+------------------------------------
