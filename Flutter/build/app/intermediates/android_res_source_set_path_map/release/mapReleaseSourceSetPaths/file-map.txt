@@ -1,0 +1,8 @@
+com.sih.navigation.ai_navigationapp-main-0 C:\Users\Mahek\AndroidStudioProjects\ai_navigationapp\android\app\src\main\res
+com.sih.navigation.ai_navigationapp-release-1 C:\Users\Mahek\AndroidStudioProjects\ai_navigationapp\android\app\src\release\res
+com.sih.navigation.ai_navigationapp-pngs-2 C:\Users\Mahek\AndroidStudioProjects\ai_navigationapp\build\app\generated\res\pngs\release
+com.sih.navigation.ai_navigationapp-updated_navigation_xml-3 C:\Users\Mahek\AndroidStudioProjects\ai_navigationapp\build\app\generated\updated_navigation_xml\release
+com.sih.navigation.ai_navigationapp-packageReleaseResources-4 C:\Users\Mahek\AndroidStudioProjects\ai_navigationapp\build\app\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.sih.navigation.ai_navigationapp-packageReleaseResources-5 C:\Users\Mahek\AndroidStudioProjects\ai_navigationapp\build\app\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.sih.navigation.ai_navigationapp-merged-not-compiled-resources-6 C:\Users\Mahek\AndroidStudioProjects\ai_navigationapp\build\app\intermediates\merged-not-compiled-resources\release
+com.sih.navigation.ai_navigationapp-release-7 C:\Users\Mahek\AndroidStudioProjects\ai_navigationapp\build\app\intermediates\merged_res\release\mergeReleaseResources
