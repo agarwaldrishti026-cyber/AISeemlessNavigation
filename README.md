@@ -1,4 +1,5 @@
-NavExa
+**NavExa**
+
 AI-Powered Seamless Navigation
 About the Project
 NavExa is an AI-based navigation prototype designed to provide seamless vehicle navigation when GPS/NavIC signals become unavailable.
